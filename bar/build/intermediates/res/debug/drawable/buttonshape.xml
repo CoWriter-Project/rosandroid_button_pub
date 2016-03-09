@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <corners
+        android:radius="18dp"
+        />
+    <gradient
+        android:angle="45"
+        android:centerX="100%"
+        android:centerColor="#040530"
+        android:startColor="#000000"
+        android:endColor="#383838"
+        android:type="linear"
+        android:shadowColor="#B8B8B8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+    <padding
+        android:left="20dp"
+        android:top="0dp"
+        android:right="0dp"
+        android:bottom="0dp"
+        />
+
+   <size
+        android:width="410dp"
+        android:height="130dp"
+        />
+    <stroke
+        android:width="3dp"
+        android:color="#878787"
+        />
+</shape> <!-- From: file:/home/wafa/myandroid_ws/src/android_wordpub/bar/src/main/res/drawable/buttonshape.xml -->

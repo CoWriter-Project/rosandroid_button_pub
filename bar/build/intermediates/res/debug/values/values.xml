@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridLayout"><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode"><enum name="alignBounds" value="0"/><enum name="alignMargins" value="1"/></attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
+    <!-- From: file:/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_gap">8dip</dimen>
+    <!-- From: file:/home/wafa/myandroid_ws/src/android_wordpub/bar/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Bar_C1</string>
+    <!-- From: file:/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="cancel">Cancel</string>
+    <string name="master_uri_hint">http://localhost:11311/</string>
+    <string name="new_master">New Public Master</string>
+    <string name="new_private_master">New Private Master</string>
+    <string name="qr_code">Read QRCode</string>
+    <string name="select_interface">Select network interface</string>
+    <string name="show_advanced">Show advanced options</string>
+    <string name="uri_text">Master URI:</string>
+    <string name="use_master">Connect</string>
+    <style name="padded">
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="0.2.0"><source path="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/assets"/></dataSet><dataSet config="main"><source path="/home/wafa/myandroid_ws/src/android_wordpub/bar/src/main/assets"/></dataSet><dataSet config="debug"><source path="/home/wafa/myandroid_ws/src/android_wordpub/bar/src/debug/assets"/></dataSet></merger>

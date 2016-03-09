@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.11.7/13b7b4aae1bf791c4f3a3a9ef68e58015cff1152/nav_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13b7b4aae1bf791c4f3a3a9ef68e58015cff1152">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/nav_msgs-1.11.7-28665a1c457d5ae83352bcf2df834e920071654d.jar" />
+    </item>
+    <item
+        jar="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/classes-3cd49344ad3abe616553d9c3fca914715a2e576f.jar" />
+    </item>
+    <item
+        jar="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/classes-175d6d7cbf4fe4875949658856b282be95a65f3c.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.11.7/9ec983bb2eaaa20552edeb3544e04a45308fe71b/actionlib_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ec983bb2eaaa20552edeb3544e04a45308fe71b">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/actionlib_msgs-1.11.7-13c8cdb44120dc2407a5c977970f1a35f652ec0a.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_tutorial_pubsub/0.1.6/abcbe03703668652dcd489611588d273e6b5b0d9/rosjava_tutorial_pubsub-0.1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="abcbe03703668652dcd489611588d273e6b5b0d9">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/rosjava_tutorial_pubsub-0.1.6-5a113d9a27304e71e0893d33516852d5a0cde878.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.httpclient-3.1.0-615add08f2a1876c853c71eeb72261b8b2d39eea.jar" />
+    </item>
+    <item
+        jar="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-478a66b06af05556cdd779cec21423d580f1776d.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.9/68490f8a983f5415bb95ebf93010c347c4fd20d8/std_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68490f8a983f5415bb95ebf93010c347c4fd20d8">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/std_msgs-0.5.9-26d00441a5d1a03fe68a616b42ad1280a4a6c6fc.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.11.7/5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e/sensor_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/sensor_msgs-1.11.7-50a5ab8fd5cdf0b2f45cf611cf72072ed364d686.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.2.1/dc3afb66cd5aa168a71bcb63ba89560b197b9300/message_generation-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dc3afb66cd5aa168a71bcb63ba89560b197b9300">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/message_generation-0.2.1-09f1e70da3309bf4ccfd79714f69224e6a54fc49.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/dnsjava-2.1.1-7c6010ad709566f6183da51e931bdd39a0ed5833.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/guava-12.0-82c38606ebf5cf1f41845518534b802c8e2c549f.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.11.7/119c52755000fa22288dd666c4185f54ca737410/diagnostic_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="119c52755000fa22288dd666c4185f54ca737410">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.11.7-dfb0e06a8b4efa71436723ddf67ebdd52d12dd4e.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.lang-2.4.0-a57a6955eb8d88d5a5e5cd8219a818af5f29f78b.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.2.1/55f1cf075db9507a26102898e9f146221e4c1aaf/apache_xmlrpc_client-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55f1cf075db9507a26102898e9f146221e4c1aaf">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.2.1-7b60cafa3c6b7d1d6de5122145a1dbbde7f069d3.jar" />
+    </item>
+    <item
+        jar="/home/wafa/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-04700ce3ccbf14669b46e8192af0475a25a81426.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/commons-pool-1.6-bcf182c20b3f721af87d37e5afa979b5e1c63e40.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.2.1/a956178368232d0a9fccf501a8c91aacf2ac0256/apache_xmlrpc_common-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a956178368232d0a9fccf501a8c91aacf2ac0256">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.1-05cdd86effe6f161663f6f2272ed1e34fdb83d25.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/jsr305-1.3.9-d1ce620b02999653ab22450dc0b52f658717beac.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.11.7/bb9ca9051697047f8ebacae69956aa562d43b0e1/geometry_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb9ca9051697047f8ebacae69956aa562d43b0e1">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/geometry_msgs-1.11.7-54ec136e7db0ca4c70ae85fb7c4550a42f390bb6.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.2.1/33c05915db7ef72ac3978d33b16abd1b4b06fec9/gradle_plugins-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="33c05915db7ef72ac3978d33b16abd1b4b06fec9">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/gradle_plugins-0.2.1-9067423ff949e07f5bd1c8e48ca8be6663ca2eaa.jar" />
+    </item>
+    <item
+        jar="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3a30924c3f64ed4870fa76411f01ae2be62abcc">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/classes-8fed02c1726892775152250f14e3a8f45d60d039.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.2.1/f96701e8f578b6a4fc538e8a8a6b8f9256fd6718/apache_xmlrpc_server-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f96701e8f578b6a4fc538e8a8a6b8f9256fd6718">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.1-c23c12ab6f2230bc41b83d6d0f6668ad6a565cc4.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.1/e3d30a4a74f6282d014f7fd9828f5131bb3a9915/rosgraph_msgs-1.11.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d30a4a74f6282d014f7fd9828f5131bb3a9915">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.1-3cadc32c3ba440028b76fcb86d61028465a8cf03.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.net-2.0.0-61562a676dc84ba95b621e2caf47a0a3d082fdb0.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.2.1/68face01dcd34ac0dd82fc3745afd764d330b427/rosjava-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68face01dcd34ac0dd82fc3745afd764d330b427">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/rosjava-0.2.1-44b7e8dd1ebe43db297a9fc38b24a382dfced97c.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/netty-3.5.2.Final-b1e74d182304da5b80aa7e7491eada9e67efc676.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.codec-1.3.0-e7fca1230f15b5443d2a811ce9d30ee85c64f366.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.logging-1.1.1-253b332373fbc354b70a5c59b2aadaa129ff1755.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.io-1.4.0-4d0ed21a5bd358b23f657f7de4aa77461bdf56b2.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/release/ws-commons-util-1.0.1-2efc8c545ad5ddb5605995e7a6137df57c4a72fa.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.9/b2fea11356b0f4ce744f30ac76e987b531b6028e/tf2_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2fea11356b0f4ce744f30ac76e987b531b6028e">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/tf2_msgs-0.5.9-52591b973f5468dbb77282a106efc942866281f6.jar" />
+    </item>
+    <item
+        jar="/home/wafa/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.2.1/e10783e01c21cbe271aa6062c87f20d11c6053f0/rosjava_test_msgs-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e10783e01c21cbe271aa6062c87f20d11c6053f0">
+        <dex dex="/home/wafa/myandroid_ws/src/android_wordpub/bar/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.2.1-f79fb5be3afcf8191a6190356c99737438a620b8.jar" />
+    </item>
+
+</items>
